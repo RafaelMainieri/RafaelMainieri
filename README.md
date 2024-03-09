@@ -1,6 +1,6 @@
 Python | SQL | VBA | HTML & CSS
  
-  📚 Information Systems Student in Unisinos
+  📚 Information Systems Student in Unisinos<br>
   💡 I'm focused and i love coding  
 
 <!---
