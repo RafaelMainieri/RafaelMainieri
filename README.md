@@ -1,4 +1,4 @@
-Python | SQL | VBA | HTML & CSS
+Java | Python | SQL | VBA | HTML & CSS
  
   📚 Information Systems Student in Unisinos<br>
   💡 I'm focused and i love coding  
