@@ -1,4 +1,5 @@
-Java | Python | SQL | VBA | HTML & CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+ | Python | SQL | VBA | HTML & CSS
  
   📚 Information Systems Student in Unisinos<br>
   💡 I'm focused and i love coding  
