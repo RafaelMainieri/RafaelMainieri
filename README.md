@@ -9,7 +9,7 @@
 <h2>Hello, Devs! 🤙</h2>
 <p>Tenho 22 anos, moro em Porto Alegre - RS e sou um entusiasta da técnologia. Desde pequeno sempre gostei muito de computadores, conheci a área da programação no final de 2023 e entrei nesse mundo por conta da área de dados, mas acabei me apaixonando pelo Front-End! (Talvez eu seja um Full-Stack em ascensão)</p>
 
-<h3>🔨 Técnologias e Ferramentas</h3> 
+<h2>🔨 Técnologias e Ferramentas</h2> 
 
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="35" height="35" />
