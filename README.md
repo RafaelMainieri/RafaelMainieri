@@ -24,7 +24,7 @@
 
 💚 Faço parte do programa [Geração Caldeira](https://www.geracaocaldeira.org/) do [Instituto Caldeira](https://institutocaldeira.org.br/);<br>
 📚 Estou cursando Sistemas de Informação na Unisinos;<br>
-🏋️ Mes principais hobbys são: levantar uns pesos na academia e jogar Call Of Duty 🎮; 
+🏋️ Meus principais hobbys são: levantar uns pesos na academia e jogar Call Of Duty 🎮; 
 <br>
 
 <div>
