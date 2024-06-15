@@ -1,4 +1,4 @@
-<h1>Rafael Mainieri</h1>
+a<h1>Rafael Mainieri</h1>
 
 <div>
 <a href="https://instagram.com/rafael.mainieri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@
 
 <div>
 <a href="https://github.com/RafaelMainieri">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 <!---
 RafaelMainieri/RafaelMainieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
