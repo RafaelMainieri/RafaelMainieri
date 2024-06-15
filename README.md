@@ -29,7 +29,7 @@ a<h1>Rafael Mainieri</h1>
 
 <div>
 <a href="https://github.com/RafaelMainieri">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&layout=compact&langs_count=15&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <!---
 RafaelMainieri/RafaelMainieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
