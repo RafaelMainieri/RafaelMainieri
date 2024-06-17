@@ -1,4 +1,4 @@
-a<h1>Rafael Mainieri</h1>
+<h1>Rafael Mainieri</h1>
 
 <div>
 <a href="https://instagram.com/rafael.mainieri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,10 +27,7 @@ a<h1>Rafael Mainieri</h1>
 🏋️ Meus principais hobbys são: levantar uns pesos na academia e jogar Call Of Duty 🎮; 
 <br>
 
-<div>
-<a href="https://github.com/RafaelMainieri">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&layout=compact&langs_count=5&theme=dracula"/>
-</div>
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 RafaelMainieri/RafaelMainieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
