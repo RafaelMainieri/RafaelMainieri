@@ -9,7 +9,7 @@
 <h2>Hello, Devs! 🤙</h2>
 <p>Tenho 22 anos, moro em Porto Alegre - RS e sou um entusiasta da técnologia.</p> 
 <p>Desde pequeno sempre gostei muito de tecnologia, conheci a área da programação no final de 2023 e entrei nesse mundo por conta da área de dados, mas acabei me apaixonando pelo Front-End! (Talvez eu seja um Full-Stack em ascensão) 😂</p>
-<p>No momento estou focado no aprendizado de Java para a área web, estudando conceitos como spring, banco de dados, git, etc.</p>
+<p>No momento estou focado no aprendizado de <strong>Java para a área web</strong>, estudando conceitos como <strong>spring, banco de dados, git, etc.</strong></p>
 
 <h2>🔨 Técnologias e Ferramentas</h2> 
 
@@ -29,9 +29,11 @@
 </div>
 
 <br>
+
 💚 Faço parte do programa [Geração Caldeira](https://www.geracaocaldeira.org/) do [Instituto Caldeira](https://institutocaldeira.org.br/);<br>
 📚 Estou cursando Sistemas de Informação na Unisinos;<br>
 🏋️ Meus principais hobbys são: levantar uns pesos na academia e jogar Call Of Duty 🎮; 
+
 <br>
 
 [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMainieri&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
